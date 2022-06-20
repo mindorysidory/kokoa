@@ -1,12 +1,3 @@
-.friend_head_bar__right div{
-  width: 5px;
-  height: 5px;
-  background-color: red;
-  border-radius: 50%;
-  position: absolute;
-  right: -4px;
-  top: 0px;
-}
 .underbar_shopping {
     width: 500px;
     height: 2px;

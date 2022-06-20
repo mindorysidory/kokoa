@@ -1,3 +1,12 @@
+.friend_head_bar__right div{
+  width: 5px;
+  height: 5px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  right: -4px;
+  top: 0px;
+}
 .kokoa_pay {
     background-color: #fae100;
     width: 500px;
