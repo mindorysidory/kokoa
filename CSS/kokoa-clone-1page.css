@@ -112,6 +112,11 @@
     text-decoration: none;
     color:black;
   }
+  .move4{
+    cursor:pointer;
+    text-decoration: none;
+    color:black;
+  }
   .under_bar {
     display: flex;
     justify-content: center;
